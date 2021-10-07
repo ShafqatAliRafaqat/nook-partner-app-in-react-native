@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784450126275",
+    "firebase_url": "https://nook-partner.firebaseio.com",
+    "project_id": "nook-partner",
+    "storage_bucket": "nook-partner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784450126275:android:99c6cc68790cb345e2bd76",
+        "android_client_info": {
+          "package_name": "pk.nooks.nookPartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784450126275-sm8e4kecfoulnm7l14g6quu43eodsf4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa2Z_rv9nOWZ57eP47tdgV6sMCmgyMEi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784450126275-sm8e4kecfoulnm7l14g6quu43eodsf4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
